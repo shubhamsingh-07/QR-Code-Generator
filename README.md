@@ -79,6 +79,10 @@ Both files are written to the project's current working directory and are overwr
 - Let users choose output filenames.
 - Add clearer error handling for file-writing failures.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## Author
 
 **Shubham Singh** · [GitHub Profile](https://github.com/shubhamsingh-07)
